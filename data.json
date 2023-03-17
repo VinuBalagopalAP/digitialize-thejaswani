@@ -1,0 +1,78 @@
+{
+  "shops": [
+    {
+      "shop_id": 1,
+      "shop_name": "juice kada",
+      "shop_exists": true,
+      "shop_items": [
+        {
+          "category_id": 1,
+          "category_name": "Lemon",
+          "items": [
+            {
+              "item_id": 1,
+              "item_name": "Fresh Lemon",
+              "item_image": "",
+              "recommended": false,
+              "item_price": 20
+            },
+            {
+              "item_id": 2,
+              "item_name": "Mango Lime",
+              "item_image": "",
+              "recommended": true,
+              "item_price": 25
+            }
+          ]
+        },
+        {
+          "category_id": 2,
+          "category_name": "Orange",
+          "items": [
+            {
+              "item_id": 3,
+              "item_name": "Orange Crush",
+              "item_image": "",
+              "recommended": false,
+              "item_price": 30
+            },
+            {
+              "item_id": 4,
+              "item_name": "Tropical Orange",
+              "item_image": "",
+              "recommended": true,
+              "item_price": 35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "shop_id": 2,
+      "shop_name": "restaurant",
+      "shop_exists": true,
+      "shop_items": [
+        {
+          "category_id": 1,
+          "category_name": "Appetizers",
+          "items": [
+            {
+              "item_id": 1,
+              "item_name": "Garlic Bread",
+              "item_image": "",
+              "recommended": true,
+              "item_price": 5
+            },
+            {
+              "item_id": 2,
+              "item_name": "Bruschetta",
+              "item_image": "",
+              "recommended": false,
+              "item_price": 8
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
