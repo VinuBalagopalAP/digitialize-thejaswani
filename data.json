@@ -7,41 +7,1356 @@
       "shop_items": [
         {
           "category_id": 1,
-          "category_name": "Lemon",
+          "category_name": "Today's Special",
           "items": [
             {
               "item_id": 1,
-              "item_name": "Fresh Lemon",
+              "item_name": "Avil Milk + Icecream",
+              "item_price": 60,
               "item_image": "",
-              "recommended": false,
-              "item_price": 20
+              "recommend": false
             },
             {
               "item_id": 2,
-              "item_name": "Mango Lime",
+              "item_name": "Mango Shake  + Icecream",
+              "item_price": 80,
               "item_image": "",
-              "recommended": true,
-              "item_price": 25
+              "recommend": false
+            },
+            {
+              "item_id": 3,
+              "item_name": "Chikku Shake  + Icecream",
+              "item_price": 70,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 4,
+              "item_name": "Fresh Strawberry Shake  + Icecream",
+              "item_price": 80,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 5,
+              "item_name": "Fig & Honey + Icecream",
+              "item_price": 80,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Today's Special",
+              "item_id": 6,
+              "item_name": "Mango + Pineapple",
+              "item_price": 70,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 7,
+              "item_name": "Mango Banana Smoothie",
+              "item_price": 90,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 8,
+              "item_name": "Strawberry + Mango",
+              "item_price": 90,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 9,
+              "item_name": "Oreo Peanut  + Icecream",
+              "item_price": 80,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 10,
+              "item_name": "KitKat Shake  + Icecream",
+              "item_price": 80,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 11,
+              "item_name": "Snicker's Shake  + Icecream",
+              "item_price": 80,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 12,
+              "item_name": "Rose Milk Shake  + Icecream",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 13,
+              "item_name": "Black Current Shake  + Icecream",
+              "item_price": 70,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 14,
+              "item_name": "Green Apple Shake  + Icecream",
+              "item_price": 70,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_name": "Blueberry Shake  + Icecream",
+              "item_price": 70,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 16,
+              "item_name": "Death By Chocolate",
+              "item_price": 75,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 17,
+              "item_name": "Karikkin Dry Fruit",
+              "item_price": 80,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 18,
+              "item_name": "Karikkin Sharjah",
+              "item_price": 80,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 19,
+              "item_name": "ABC",
+              "item_price": 80,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 20,
+              "item_name": "Cucumber + Gooseberry",
+              "item_price": 50,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 21,
+              "item_name": "Falooda",
+              "item_price": 100,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 22,
+              "item_name": "Mini Falooda",
+              "item_price": 80,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 23,
+              "item_name": "Royal Falooda",
+              "item_price": 140,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 24,
+              "item_name": "Fruit Salad  + Icecream",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 25,
+              "item_name": "Brownie + Vanila",
+              "item_price": 50,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 26,
+              "item_name": "Brownie +Chocolate",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 27,
+              "item_name": "Brownie Shake + Icecream",
+              "item_price": 80,
+              "item_image": "",
+              "recommend": false
             }
           ]
         },
         {
           "category_id": 2,
-          "category_name": "Orange",
+          "category_name": "Lemon",
+
           "items": [
             {
-              "item_id": 3,
-              "item_name": "Orange Crush",
+              "item_id": 1,
+              "item_name": "Fresh Lime",
+              "item_price": 20,
               "item_image": "",
-              "recommended": false,
-              "item_price": 30
+              "recommend": false
+            },
+            {
+              "item_id": 2,
+              "item_name": "Mango Lime",
+              "item_price": 25,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 3,
+              "item_name": "Orange Lime",
+              "item_price": 30,
+              "item_image": "",
+              "recommend": false
             },
             {
               "item_id": 4,
-              "item_name": "Tropical Orange",
+              "item_name": "Grape Lime",
+              "item_price": 25,
               "item_image": "",
-              "recommended": true,
-              "item_price": 35
+              "recommend": false
+            },
+            {
+              "item_id": 5,
+              "item_name": "Ball Grape",
+              "item_price": 30,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 6,
+              "item_name": "Hot Mango Lime",
+              "item_price": 30,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 7,
+              "item_name": "Green Mango Lime",
+              "item_price": 25,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 8,
+              "item_name": "Pineapple Lime",
+              "item_price": 25,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 9,
+              "item_name": "Ginger Lime",
+              "item_price": 25,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 10,
+              "item_name": "Mint Lime",
+              "item_price": 25,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 11,
+              "item_name": "Shamam Lime",
+              "item_price": 25,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 12,
+              "item_name": "Soda Lime",
+              "item_price": 25,
+              "item_image": "",
+              "recommend": false
+            }
+          ]
+        },
+        {
+          "category_id": 3,
+          "category_name": "Fruit Juice",
+          "items": [
+            {
+              "item_id": 1,
+              "item_name": "Orange",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 2,
+              "item_name": "Musambi",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 3,
+              "item_name": "Grape",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 4,
+              "item_name": "Pineapple",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 5,
+              "item_name": "Apple",
+              "item_price": 90,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 6,
+              "item_name": "Water Melon",
+              "item_price": 40,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 7,
+              "item_name": "Green Apple",
+              "item_price": 90,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 8,
+              "item_name": "Cocktail",
+              "item_price": 70,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 9,
+              "item_name": "Pomegranate",
+              "item_price": 90,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 10,
+              "item_name": "Mexicano (Five Fruit Mix)",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 11,
+              "item_name": "Sunset",
+              "item_price": 70,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 12,
+              "item_name": "Passionfruit Mix Orange",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 13,
+              "item_name": "Passion Magic",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 14,
+              "item_name": "Sunrise",
+              "item_price": 80,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 15,
+              "item_name": "Desire",
+              "item_price": 80,
+              "item_image": "",
+              "recommend": false
+            }
+          ]
+        },
+        {
+          "category_id": 4,
+          "category_name": "Vegetable & Fruit Juice",
+          "items": [
+            {
+              "item_id": 1,
+              "item_name": "Beauty Spot",
+              "item_price": 70,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 2,
+              "item_name": "Beauty Punch",
+              "item_price": 70,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 3,
+              "item_name": "Beauty Queen",
+              "item_price": 70,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 4,
+              "item_name": "Cucumber",
+              "item_price": 40,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 5,
+              "item_name": "Carrot",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 6,
+              "item_name": "Beetroot",
+              "item_price": 50,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 7,
+              "item_name": "Carrot Beetroot",
+              "item_price": 70,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 8,
+              "item_name": "OAB",
+              "item_price": 70,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 9,
+              "item_name": "BAL",
+              "item_price": 70,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 10,
+              "item_name": "Honey+Watermelon+Cucumber",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 11,
+              "item_name": "Cucumber+Lemon+Mint",
+              "item_price": 50,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 12,
+              "item_name": "Cucumber+Kiwi+Pineapple+Musambi",
+              "item_price": 70,
+              "item_image": "",
+              "recommend": false
+            }
+          ]
+        },
+        {
+          "category_id": 5,
+          "category_name": "Season Fruit Juice",
+          "items": [
+            {
+              "item_id": 1,
+              "item_name": "Strawberry",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 2,
+              "item_name": "Lichy",
+              "item_price": 70,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 3,
+              "item_name": "Plum",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 4,
+              "item_name": "Pear",
+              "item_price": 50,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 5,
+              "item_name": "Peach",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 6,
+              "item_name": "Apricot",
+              "item_price": 70,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 7,
+              "item_name": "Chambukka",
+              "item_price": 50,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 8,
+              "item_name": "Dragon Fruit",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Season Fruit Juice",
+              "item_id": 9,
+              "item_name": "Passion Fruit",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Season Fruit Juice",
+              "item_id": 10,
+              "item_name": "Custard Apple",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 11,
+              "item_name": "Sunshine",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 12,
+              "item_name": "Strawberry Mist",
+              "item_price": 70,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 13,
+              "item_name": "Strawberry Sparkle",
+              "item_price": 70,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 14,
+              "item_name": "Baby Love",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            }
+          ]
+        },
+        {
+          "category_id": 6,
+          "category_name": "Scoop & Cone",
+          "items": [
+            {
+              "category": "Scoop & Cone",
+              "item_id": 1,
+              "item_name": "Vanilla",
+              "item_price": 50,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Scoop & Cone",
+              "item_id": 2,
+              "item_name": "Strawberry",
+              "item_price": 50,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Scoop & Cone",
+              "item_id": 3,
+              "item_name": "Chocolate",
+              "item_price": 30,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Scoop & Cone",
+              "item_id": 4,
+              "item_name": "Butterscotch",
+              "item_price": 30,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Scoop & Cone",
+              "item_id": 5,
+              "item_name": "Kulfi",
+              "item_price": 30,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Scoop & Cone",
+              "item_id": 6,
+              "item_name": "Spanish Delight",
+              "item_price": 70,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Scoop & Cone",
+              "item_id": 7,
+              "item_name": "Black Current",
+              "item_price": 30,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Scoop & Cone",
+              "item_id": 8,
+              "item_name": "Mango",
+              "item_price": 30,
+              "item_image": "",
+              "recommend": false
+            }
+          ]
+        },
+        {
+          "category_id": 7,
+          "category_name": "Delights",
+          "items": [
+            {
+              "item_id": 1,
+              "item_name": "Badam Kulfi Delight",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 2,
+              "item_name": "Butterscotch Choconut",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 3,
+              "item_name": "Vanilla Choco Delight",
+              "item_price": 80,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 4,
+              "item_name": "Dryfruit Delight",
+              "item_price": 70,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 5,
+              "item_name": "Choco Boost Delight",
+              "item_price": 70,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 6,
+              "item_name": "Death By Chocolate",
+              "item_price": 75,
+              "item_image": "",
+              "recommend": false
+            }
+          ]
+        },
+        {
+          "category_id": 8,
+          "category_name": "Coffee",
+          "items": [
+            {
+              "item_id": 1,
+              "item_name": "Cold Coffee",
+              "item_price": 50,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 2,
+              "item_name": "Arabian Coffee",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 3,
+              "item_name": "Coffee Banana Cooler",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 4,
+              "item_name": "Chocolate Coffee",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 5,
+              "item_name": "Spanish Coffee",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            }
+          ]
+        },
+        {
+          "category_id": 9,
+          "category_name": "Fruit Salad",
+          "items": [
+            {
+              "item_id": 1,
+              "item_name": "Fruit Salad with Ice Cream",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 2,
+              "item_name": "Small Cut Fruit",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 3,
+              "item_name": "Special Cut Fruit",
+              "item_price": 80,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 4,
+              "item_name": "Arabian Fruit Salad with Dry Fruit",
+              "item_price": 80,
+              "item_image": "",
+              "recommend": false
+            }
+          ]
+        },
+        {
+          "category_id": 10,
+          "category_name": "Special Cake with Ice Cream",
+          "items": [
+            {
+              "category": "Special Cake with Ice Cream",
+              "item_id": 1,
+              "item_name": "Blackforest with Icecream",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Special Cake with Ice Cream",
+              "item_id": 2,
+              "item_name": "Blackforest with Chocolate",
+              "item_price": 70,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Special Cake with Ice Cream",
+              "item_id": 3,
+              "item_name": "Brownie with Icecream",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Special Cake with Ice Cream",
+              "item_id": 4,
+              "item_name": "Brownie with Chocolate",
+              "item_price": 65,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Special Cake with Ice Cream",
+              "item_id": 5,
+              "item_name": "Sizzy Brownie",
+              "item_price": 90,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Special Cake with Ice Cream",
+              "item_id": 6,
+              "item_name": "Cooky Brownie",
+              "item_price": 80,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Special Cake with Ice Cream",
+              "item_id": 7,
+              "item_name": "Chocolate Factory",
+              "item_price": 90,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Special Cake with Ice Cream",
+              "item_id": 8,
+              "item_name": "Chocolate Dream",
+              "item_price": 90,
+              "item_image": "",
+              "recommend": false
+            }
+          ]
+        },
+        {
+          "category_id": 11,
+          "category_name": "Falooda Special",
+          "items": [
+            {
+              "category": "Falooda Special",
+              "item_id": 1,
+              "item_name": "Falooda",
+              "item_price": 100,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Falooda Special",
+              "item_id": 2,
+              "item_name": "Royal Falooda",
+              "item_price": 140,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Falooda Special",
+              "item_id": 3,
+              "item_name": "Kulfi Falooda",
+              "item_price": "",
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Falooda Special",
+              "item_id": 4,
+              "item_name": "Mango",
+              "item_price": "",
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Falooda Special",
+              "item_id": 5,
+              "item_name": "Coconut Green Falooda",
+              "item_price": 130,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Falooda Special",
+              "item_id": 6,
+              "item_name": "Mixed Falooda",
+              "item_price": 130,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Falooda Special",
+              "item_id": 7,
+              "item_name": "Full Chocolate Falooda",
+              "item_price": 130,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Falooda Special",
+              "item_id": 8,
+              "item_name": "Mini Falooda",
+              "item_price": 80,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 1,
+              "item_name": "Sharjah",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 2,
+              "item_name": "Chocolate Sharjah",
+              "item_price": 70,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 3,
+              "item_name": "Butterscotch Sharjah",
+              "item_price": 70,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 4,
+              "item_name": "Pista Sharjah",
+              "item_price": 70,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 5,
+              "item_name": "Dryfruit Sharjah",
+              "item_price": 80,
+              "item_image": "",
+              "recommend": false
+            }
+          ]
+        },
+        {
+          "category_id": 12,
+          "category_name": "Sharjah Shake",
+          "items": [
+            {
+              "item_id": 1,
+              "item_name": "Sharjah",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 2,
+              "item_name": "Chocolate Sharjah",
+              "item_price": 70,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 3,
+              "item_name": "Butterscotch Sharjah",
+              "item_price": 70,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 4,
+              "item_name": "Pista Sharjah",
+              "item_price": 70,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 5,
+              "item_name": "Dryfruit Sharjah",
+              "item_price": 80,
+              "item_image": "",
+              "recommend": false
+            }
+          ]
+        },
+        {
+          "category_id": 13,
+          "category_name": "Fruit & Dryfruit Sundae",
+          "items": [
+            {
+              "category": "Fruit & Dryfruit Sundae",
+              "item_id": 1,
+              "item_name": "Fruit Sundae",
+              "item_price": 80,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Fruit & Dryfruit Sundae",
+              "item_id": 2,
+              "item_name": "Fruit & Dryfruit Sundae",
+              "item_price": 100,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Fruit & Dryfruit Sundae",
+              "item_id": 3,
+              "item_name": "Dry Fruit Queen",
+              "item_price": 90,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Fruit & Dryfruit Sundae",
+              "item_id": 4,
+              "item_name": "Royal Dry Fruit Queen",
+              "item_price": 130,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Fruit & Dryfruit Sundae",
+              "item_id": 5,
+              "item_name": "Choco Chip",
+              "item_price": 75,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Fruit & Dryfruit Sundae",
+              "item_id": 6,
+              "item_name": "Vanila Coconut Sundae",
+              "item_price": 80,
+              "item_image": "",
+              "recommend": false
+            }
+          ]
+        },
+        {
+          "category_id": 14,
+          "category_name": "Fruit Shake",
+          "items": [
+            {
+              "category": "Fruit Shake",
+              "item_id": 1,
+              "item_name": "Banana",
+              "item_price": 40,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Fruit Shake",
+              "item_id": 2,
+              "item_name": "Mango",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Fruit Shake",
+              "item_id": 3,
+              "item_name": "Apple",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Fruit Shake",
+              "item_id": 4,
+              "item_name": "Pappaya",
+              "item_price": 50,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Fruit Shake",
+              "item_id": 5,
+              "item_name": "Avocado",
+              "item_price": 80,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Fruit Shake",
+              "item_id": 6,
+              "item_name": "Chikku",
+              "item_price": 50,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Fruit Shake",
+              "item_id": 7,
+              "item_name": "Fig & Honey",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Fruit Shake",
+              "item_id": 8,
+              "item_name": "Guava",
+              "item_price": 50,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Fruit Shake",
+              "item_id": 9,
+              "item_name": "Shamam",
+              "item_price": 50,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Fruit Shake",
+              "item_id": 10,
+              "item_name": "Mango Avocado",
+              "item_price": 90,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Fruit Shake",
+              "item_id": 11,
+              "item_name": "Lady Di",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Fruit Shake",
+              "item_id": 12,
+              "item_name": "Pomegranate Shake",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Fruit Shake",
+              "item_id": 13,
+              "item_name": "Somethig Special",
+              "item_price": 80,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Fruit Shake",
+              "item_id": 14,
+              "item_name": "Cherry Shake",
+              "item_price": 50,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Fruit Shake",
+              "item_id": 15,
+              "item_name": "Evening Glory",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Fruit Shake",
+              "item_id": 16,
+              "item_name": "Arabian Night",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Fruit Shake",
+              "item_id": 17,
+              "item_name": "Nutty Crunchy",
+              "item_price": 70,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Fruit Shake",
+              "item_id": 18,
+              "item_name": "Badam Shake",
+              "item_price": 70,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Fruit Shake",
+              "item_id": 19,
+              "item_name": "Cashew & Vanila",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Fruit Shake",
+              "item_id": 20,
+              "item_name": "Golden Sands",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Fruit Shake",
+              "item_id": 21,
+              "item_name": "Energizer",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "category": "Fruit Shake",
+              "item_id": 22,
+              "item_name": "Mixed Dry Fruit Shake",
+              "item_price": 80,
+              "item_image": "",
+              "recommend": false
+            }
+          ]
+        },
+        {
+          "category_id": 15,
+          "category_name": "Fresh Juice",
+          "items": [
+            {
+              "item_id": 1,
+              "item_name": "Pappaya",
+              "item_price": 50,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 2,
+              "item_name": "Shamam",
+              "item_price": 50,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 3,
+              "item_name": "Chikku",
+              "item_price": 50,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 4,
+              "item_name": "Green Apple",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 5,
+              "item_name": "Apple",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 6,
+              "item_name": "Guava",
+              "item_price": 50,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 7,
+              "item_name": "Mango",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 8,
+              "item_name": "Fig",
+              "item_price": 50,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 9,
+              "item_name": "Pomegranate",
+              "item_price": 70,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 10,
+              "item_name": "Kiwi",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 11,
+              "item_name": "Ball Grape",
+              "item_price": 30,
+              "item_image": "",
+              "recommend": false
+            }
+          ]
+        },
+        {
+          "category_id": 16,
+          "category_name": "Karikkan Special",
+          "items": [
+            {
+              "item_id": 1,
+              "item_name": "Karikkan Shake",
+              "item_price": 60,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 2,
+              "item_name": "Dryfruit Karikk",
+              "item_price": 80,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 3,
+              "item_name": "Chocolate Karikk",
+              "item_price": 70,
+              "item_image": "",
+              "recommend": false
+            },
+            {
+              "item_id": 4,
+              "item_name": "Snicker's Karikk",
+              "item_price": 80,
+              "item_image": "",
+              "recommend": false
             }
           ]
         }
@@ -50,7 +1365,7 @@
     {
       "shop_id": 2,
       "shop_name": "restaurant",
-      "shop_exists": true,
+      "shop_exists": false,
       "shop_items": [
         {
           "category_id": 1,
